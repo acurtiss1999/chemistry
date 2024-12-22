@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unit 1: Chemistry Basics</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: url('https://source.unsplash.com/1600x900/?science') no-repeat center center fixed;
+            background-size: cover;
+            color: white;
+            text-align: center;
+        }
+        header { padding: 20px; background-color: rgba(0, 0, 0, 0.6); font-size: 2rem; }
+        footer { margin-top: 20px; background-color: rgba(0, 0, 0, 0.6); padding: 10px; font-size: 1rem; }
+    </style>
+</head>
+<body>
+    <header>Unit 1: Chemistry Basics</header>
+    <main>
+        <p>Welcome to Unit 1! Here you'll find resources and activities for our first topic.</p>
+        <a href="notes.pdf" style="color: lightblue;">Download Notes</a>
+        <br><br>
+        <a href="https://youtu.be/example" style="color: lightblue;">Watch the Video</a>
+    </main>
+    <footer>© 2024 Chemistry Class</footer>
+</body>
+</html>
